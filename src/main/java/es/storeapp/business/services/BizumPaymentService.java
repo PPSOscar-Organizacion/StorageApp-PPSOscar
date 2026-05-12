@@ -72,7 +72,8 @@ public class BizumPaymentService {
                     ", operationId='" + operationId + '\'' +
                     ", timestamp=" + timestamp +
                     '}';
+
+            fixed-bug-arreglado
         }
     }
 }
-
